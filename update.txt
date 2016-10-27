@@ -1,1 +1,1 @@
-4.1.29||https://github.com/ACP3/cms/releases/tag/v4.1.29
+4.1.30||https://github.com/ACP3/cms/releases/tag/v4.1.30
