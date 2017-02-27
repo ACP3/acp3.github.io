@@ -1,1 +1,1 @@
-4.7.0||https://github.com/ACP3/cms/releases/tag/v4.7.0
+4.7.1||https://github.com/ACP3/cms/releases/tag/v4.7.1
