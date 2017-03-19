@@ -1,1 +1,1 @@
-4.8.4||https://github.com/ACP3/cms/releases/tag/v4.8.4
+4.8.5||https://github.com/ACP3/cms/releases/tag/v4.8.5
