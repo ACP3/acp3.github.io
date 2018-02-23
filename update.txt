@@ -1,1 +1,1 @@
-4.20.0||https://github.com/ACP3/cms/releases/tag/v4.20.0
+4.22.1||https://gitlab.com/ACP3/cms/repository/v4.22.1/archive.zip
