@@ -1,1 +1,1 @@
-4.35.0||https://gitlab.com/ACP3/cms/-/jobs/artifacts/v4.35.0/download?job=deploy%3Agenerate-artifact
+4.35.1||https://gitlab.com/ACP3/cms/-/jobs/artifacts/v4.35.1/download?job=deploy%3Agenerate-artifact
